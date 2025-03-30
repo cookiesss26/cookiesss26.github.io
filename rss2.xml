@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>饼干集</title>
+    <link>http://example.com/</link>
+    
+    <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Sun, 30 Mar 2025 04:37:53 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>README</title>
+      <link>http://example.com/posts/2009940341/</link>
+      <guid>http://example.com/posts/2009940341/</guid>
+      <pubDate>Sun, 30 Mar 2025 04:17:29 GMT</pubDate>
+      
+      <description>&lt;h1 id=&quot;饼干的学习集&quot;&gt;&lt;a href=&quot;#饼干的学习集&quot; class=&quot;headerlink&quot; title=&quot;饼干的学习集&quot;&gt;&lt;/a&gt;饼干的学习集&lt;/h1&gt;&lt;h2 id=&quot;一、内容&quot;&gt;&lt;a href=&quot;#一、内容&quot; class=&quot;headerlink&quot; title=&quot;一、内容&quot;&gt;&lt;/a&gt;一、内容&lt;/h2&gt;&lt;p&gt;主要涉及风控、数据挖掘、机器学习等领域知识（将根据学习进度不定时更新定位）&lt;/p&gt;
+&lt;h2 id=&quot;二、目的&quot;&gt;&lt;a href=&quot;#二、目的&quot; class=&quot;headerlink&quot; title=&quot;二、目的&quot;&gt;&lt;/a&gt;二、目的&lt;/h2&gt;&lt;p&gt;主要目标：有效思考内容 &amp;gt; 单纯问题记录&lt;/p&gt;
+&lt;p&gt;私人学习笔记中大多数是从别的地方复制粘贴的学习内容，很大部分是从外界的知识输入，很少会有输出。通过这个平台记录自己的思考和遇到的问题。&lt;/p&gt;</description>
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="饼干的学习集"><a href="#饼干的学习集" class="headerlink" title="饼干的学习集"></a>饼干的学习集</h1><h2 id="一、内容"><a href="#一、内容" class="headerlink" title="一、内容"></a>一、内容</h2><p>主要涉及风控、数据挖掘、机器学习等领域知识（将根据学习进度不定时更新定位）</p><h2 id="二、目的"><a href="#二、目的" class="headerlink" title="二、目的"></a>二、目的</h2><p>主要目标：有效思考内容 &gt; 单纯问题记录</p><p>私人学习笔记中大多数是从别的地方复制粘贴的学习内容，很大部分是从外界的知识输入，很少会有输出。通过这个平台记录自己的思考和遇到的问题。</p><span id="more"></span>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/posts/2009940341/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
